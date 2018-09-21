@@ -1,5 +1,8 @@
 _repo: Armenia-Travels-and-Studies-Volume-2-of-2-The-Turkish-Provinces_53568
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53568-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Lynch, H. F. B. (Harry Finnis Blosse)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46432'
     url: http://www.gutenberg.org/2009/agents/46432
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53568#Armenia-Travels-and-Studies-Volume-2-of-2-The-Turkish-Provinces
 gutenberg_issued: '2016-11-21'
 gutenberg_type: Text
 identifiers:
